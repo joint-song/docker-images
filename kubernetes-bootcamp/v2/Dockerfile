@@ -1,0 +1,1 @@
+FROM registry.hub.docker.com/jocatalin/kubernetes-bootcamp:v2
