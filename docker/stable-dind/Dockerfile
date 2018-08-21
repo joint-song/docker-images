@@ -1,2 +1,2 @@
 FROM docker:stable-dind
-RUN apt add make
+RUN apk add make
